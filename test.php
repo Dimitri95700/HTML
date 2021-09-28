@@ -1,1 +1,8 @@
-// test pour le php 
+<?php
+
+/**
+ * commentaire en php
+ */
+
+
+?>
